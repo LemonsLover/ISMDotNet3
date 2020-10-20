@@ -11,3 +11,16 @@ C:\Users\dizon\source\repos\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.csproj.
 C:\Users\dizon\source\repos\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.dll
 C:\Users\dizon\source\repos\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.pdb
 C:\Users\dizon\source\repos\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\dizon\Desktop\New folder\ISMDotNet3\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache

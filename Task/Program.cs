@@ -63,7 +63,7 @@ namespace Task
             return i_max;
         }
 
-        static public double SumOfPositiveNumbers(double[] arr)
+        static public double SumOfPositiveNumberIndexes(double[] arr)
         {
             double sum = 0;
             for (int i = 0; i < arr.Length; i++)
@@ -138,7 +138,7 @@ namespace Task
             Console.WriteLine($"Sum of negative numbers: {SumNegative(arr)}");
             Console.WriteLine($"Max element in array: {MaxElement(arr)}, and it's index is: {MaxElementIndex(arr)}");
             Console.WriteLine($"Max number by module: {MaxElementByModule(arr)}, and it's index is: {MaxElementByModuleIndex(arr)}");
-            Console.WriteLine($"Sum of positive indexes: {SumOfPositiveNumbers(arr)}");
+            Console.WriteLine($"Sum of positive indexes: {SumOfPositiveNumberIndexes(arr)}");
             Console.WriteLine($"Amount of integer numbers: {AmountOfIntegerNumbers(arr)}");
             Console.WriteLine("Sorted array:");
             ArraySort(arr);
